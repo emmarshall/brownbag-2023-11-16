@@ -108,9 +108,6 @@ https://www.plancpills.org/
 <h2>SMA results in same outcome, physical symptoms and behaviors</h2>
 :::
 
-------------------------------------------------------------------------
-
-![](images/susp_preg_facts.svg){.r-stretch fig-align="center"}
 
 ```{r}
 #| label: setup
@@ -238,15 +235,9 @@ For anti-abortion forces, pregnancy loss narratives blur the line between aborti
 
 ## Which pregnancy losses raise suspicion?
 
-::: columns
-::: {.column width="50%"}
-![](images/medication_abortion.svg){fig-align="center"}
-:::
+------------------------------------------------------------------------
 
-::: {.column width="50%"}
-![](images/med_miscarriage.svg){fig-align="center"}
-:::
-:::
+![](images/susp_preg_facts.svg){.r-stretch fig-align="center"}
 
 ::: notes
 Abortions by pill are indistinguishable from involuntary pregnancy loss (miscarriages)
@@ -289,11 +280,21 @@ Various legal actors must infer the pregnant person's subjective mental state ("
 ![](images/outcome_bias_2.svg){fig-align="center" width="677"}
 
 
+
+------------------------------------------------------------------------
+
+![](images/moral_1.svg){fig-align="center" width="677"}
+
+------------------------------------------------------------------------
+
+![](images/moral_2.svg){fig-align="center" width="677"}
+
+
 ## End of Pregnancy as Moral Harm {.smaller}
 
 ::: columns
 ::: {.column width="50%"}
-![](images/choice_preg.svg){width="627" height="493"}
+![](images/susp_preg_facts.svg){width="627" height="493"}
 :::
 
 ::: {.column width="50%"}
@@ -314,14 +315,6 @@ In virtue of the higher perceived risk in the unlucky cases (where the harm does
 
 Once subjective probability and negligence are accounted for as mediators, however, no significant direct effects of outcome on blame remain.
 :::
-
-------------------------------------------------------------------------
-
-![](images/moral_1.svg){fig-align="center" width="677"}
-
-------------------------------------------------------------------------
-
-![](images/moral_2.svg){fig-align="center" width="677"}
 
 ------------------------------------------------------------------------
 
@@ -348,6 +341,13 @@ Once subjective probability and negligence are accounted for as mediators, howev
 ![](images/luck_hind.svg){fig-align="center" width="677"}
 
 ------------------------------------------------------------------------
+
+![](images/preg_moral.svg){fig-align="center" width="677"}
+
+
+## [Case Study]{.example} :corn: Teen ended pregnancy at \>30 weeks {auto-animate="true" auto-animate-easing="ease-in-out"}
+
+![](images/jail_nebraska.png){fig-align="center" width="276"}
 
 ## Fourth Amendment
 
@@ -406,6 +406,7 @@ The current proposal will explore these issues and discuss the nature of Fourth 
 ![](images/evidence_pcrs.svg){width="627" height="493"}
 :::
 
+
 ::: {.column width="50%"}
 ::: red-box
 ![](images/hind_out.svg){fig-align="center" width="677"}
@@ -413,30 +414,28 @@ The current proposal will explore these issues and discuss the nature of Fourth 
 :::
 :::
 
------------------------------------------------------------
+------------------------------------------------------------------------
 
-
-::: columns
-::: {.column width="50%"}
 ![](images/hind_out.svg){fig-align="center" width="677"}
-:::
-
-::: {.column width="50%"}
-![](images/moral_inp_out.svg){fig-align="center" width="677"}
-:::
-:::
-
 
 ------------------------------------------------------------------------
 
 ![](images/hindsight_full.svg){fig-align="center" width="677"}
 
-------------------------------------------------------------------------
+-----------------------------------------------------------
 
-![](images/hind_out.svg){fig-align="center" width="677"}
 
-------------------------------------------------------------------------
-
+::: columns
+::: {.column width="50%"}
 ![](images/preg_moral.svg){fig-align="center" width="677"}
+
+:::
+
+::: {.column width="50%"}
+![](images/hind_out.svg){fig-align="center" width="677"}
+:::
+:::
+
+
 
 # Questions?
