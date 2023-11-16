@@ -108,6 +108,14 @@ https://www.plancpills.org/
 <h2>SMA results in same outcome, physical symptoms and behaviors</h2>
 :::
 
+## Which pregnancy losses raise suspicion?
+
+![](images/preg_intentions.svg){fig-align="center" width="677"}
+
+::: {.cream-box .fragment .fade-up}
+<h2>{{< fa pregnant >}} Most investigations triggered by someone reporting loss to law enforcement</h2>
+:::
+
 
 ```{r}
 #| label: setup
@@ -215,15 +223,15 @@ ggplot() +
 
 ------------------------------------------------------------------------
 
-![](images/single_narrative.svg){fig-align="center" width="677"}
+![](images/single_nar1.svg){.r-stretch fig-align="center"}
 
 ------------------------------------------------------------------------
 
-![](images/single_abort.svg){fig-align="center" width="677"}
+![](images/single_path2.svg){.r-stretch fig-align="center"}
 
 ------------------------------------------------------------------------
 
-![](images/single_all.svg){fig-align="center" width="677"}
+![](images/sing_nar4.svg){.r-stretch fig-align="center"}
 
 ::: notes
 Both sides of abortion debate promote single path narrative of pregnancy - idea that pregnancy ends in live birth unless interrupted by abortion.
@@ -233,9 +241,9 @@ For pro-abortion advocates, pregnancy loss and fetal personhood thought to under
 For anti-abortion forces, pregnancy loss narratives blur the line between abortion and lawful behavior.
 :::
 
+
 ## Which pregnancy losses raise suspicion?
 
-------------------------------------------------------------------------
 
 ![](images/susp_preg_facts.svg){.r-stretch fig-align="center"}
 
@@ -249,48 +257,34 @@ Various legal actors must infer the pregnant person's subjective mental state ("
 
 ------------------------------------------------------------------------
 
-![](images/for_hind.svg){fig-align="center" width="677"}
+![](images/for_hind.svg){.r-stretch fig-align="center"}
 
 ------------------------------------------------------------------------
 
-![](images/hind_intro.svg){fig-align="center" width="677"}
-
-------------------------------------------------------------------------
-
-![](images/hindsight_components.svg){fig-align="center" width="677"}
-
-------------------------------------------------------------------------
-
-![](images/inputs_cog.svg){fig-align="center" width="677"}
-
-------------------------------------------------------------------------
-
-![](images/inputs_all.svg){fig-align="center" width="677"}
-
-------------------------------------------------------------------------
-
-![](images/hind_opp.svg){fig-align="center" width="677"}
-
-------------------------------------------------------------------------
-
-![](images/outcome_bias_1.svg){fig-align="center" width="677"}
-
-------------------------------------------------------------------------
-
-![](images/outcome_bias_2.svg){fig-align="center" width="677"}
+![](images/hind_intro.svg){.r-stretch fig-align="center"}
 
 
 
 ------------------------------------------------------------------------
 
-![](images/moral_1.svg){fig-align="center" width="677"}
+![](images/outcome_bias_1.svg){.r-stretch fig-align="center"}
 
 ------------------------------------------------------------------------
 
-![](images/moral_2.svg){fig-align="center" width="677"}
+![](images/outcome_bias_2.svg){.r-stretch fig-align="center"}
 
 
-## End of Pregnancy as Moral Harm {.smaller}
+
+------------------------------------------------------------------------
+
+![](images/moral_1.svg){.r-stretch fig-align="center"}
+
+------------------------------------------------------------------------
+
+![](images/moral_2.svg){.r-stretch fig-align="center"}
+
+
+## Pregnancy Loss as Moral Harm {.smaller}
 
 ::: columns
 ::: {.column width="50%"}
@@ -316,9 +310,13 @@ In virtue of the higher perceived risk in the unlucky cases (where the harm does
 Once subjective probability and negligence are accounted for as mediators, however, no significant direct effects of outcome on blame remain.
 :::
 
+
+
 ------------------------------------------------------------------------
 
 ![](images/moral_inp_out.svg){fig-align="center" width="677"}
+
+
 
 ------------------------------------------------------------------------
 
@@ -417,6 +415,23 @@ The current proposal will explore these issues and discuss the nature of Fourth 
 ------------------------------------------------------------------------
 
 ![](images/hind_out.svg){fig-align="center" width="677"}
+
+
+------------------------------------------------------------------------
+
+![](images/hindsight_components.svg){fig-align="center" width="677"}
+
+------------------------------------------------------------------------
+
+![](images/inputs_cog.svg){fig-align="center" width="677"}
+
+------------------------------------------------------------------------
+
+![](images/inputs_all.svg){fig-align="center" width="677"}
+
+------------------------------------------------------------------------
+
+![](images/hind_opp.svg){fig-align="center" width="677"}
 
 ------------------------------------------------------------------------
 

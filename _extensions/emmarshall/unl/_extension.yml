@@ -6,7 +6,7 @@ contributes:
   formats:
     revealjs:
       theme: unl.scss
-      logo: logo.svg
+      logo: "https://emmarshall.github.io/runza/img/unlpsych.png"
       menu:
         side: left
       slide-number: true
